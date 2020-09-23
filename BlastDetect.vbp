@@ -1,0 +1,36 @@
+Type=Exe
+Reference=*\G{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}#1.0#0#..\..\..\..\WINDOWS\System32\wshom.ocx#Windows Script Host Object Model
+Form=frmMain.frm
+Module=modMain; modMain.bas
+Startup="frmMain"
+HelpFile=""
+ExeName32="BlastDetect.exe"
+Command32=""
+Name="BlastDetect"
+HelpContextID="0"
+Description="Win32.Blaster Detection Utility"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="RedBox Design"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
